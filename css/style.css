@@ -46,3 +46,9 @@ header {
 .about {
 	background-color: #58B99D;
 }
+
+/* Form */
+
+.form {
+	height: 300px;
+}
