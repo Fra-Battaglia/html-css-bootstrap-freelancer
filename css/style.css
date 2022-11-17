@@ -50,9 +50,9 @@ header {
 
 /* Portfolio */
 
-.portfolio-item {
-	height: 200px;
-	background-color: #4EA2B3;
+.portfolio-item img {
+	width: 100%;
+	border-radius: 10px;
 }
 
 /* About */
