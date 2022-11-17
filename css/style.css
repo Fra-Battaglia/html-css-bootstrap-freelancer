@@ -52,3 +52,17 @@ header {
 .form {
 	height: 300px;
 }
+
+/* Footer */
+
+footer {
+	background-color: #3F536B;
+}
+
+.footer-item {
+	height: 100px;
+}
+
+.copyright {
+	background-color: #303D4E;
+}
