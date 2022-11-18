@@ -5,6 +5,10 @@
 	overflow-x: hidden;
 }
 
+a {
+	text-decoration: none;
+}
+
 .container-fluid, .row {
 	height: 100%;
 	border: 1px solid blue;
@@ -84,6 +88,25 @@ footer {
 
 .footer-item {
 	height: 100px;
+}
+
+.footer-item p a {
+	color: #58B99D;
+}
+
+.footer-title, .social-icon {
+	font-size: 20px;
+}
+
+.social a {
+	color: #FFFFFF;
+}
+
+.social-icon {
+	border-radius: 50%;
+	border: 1px solid #FFFFFF;
+	height: 40px;
+	width: 40px;
 }
 
 .copyright {
